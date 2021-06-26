@@ -1,0 +1,36 @@
+GET http://192.168.56.103:8888/group1/M00/00/00/wKg4Z159Xm2AFVgdAAWPB9sXAto677.jpg
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-27T100406.200.txt
+
+###
+
+GET http://localhost:8888/group1/M00/00/00/wKg4Z159Xm2AFVgdAAWPB9sXAto677.jpg
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-27T100343.404.json
+
+###
+
+GET http://localhost:8888/M00/00/00/wKg4Z159Xm2AFVgdAAWPB9sXAto677.jpg
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-03-27T100320.404.json
+
+###
+
+GET http://localhost:8888/fastfds/uploadFile
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8888/fastfds/uploadFile
+Accept: */*
+Cache-Control: no-cache
+
+###
+

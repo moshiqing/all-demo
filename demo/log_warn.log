@@ -1,0 +1,1 @@
+2021-05-29 19:19:51.549 [main] WARN  org.apache.kafka.clients.NetworkClient - [Consumer clientId=consumer-1, groupId=0] Connection to node -1 could not be established. Broker may not be available.
