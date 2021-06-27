@@ -306,19 +306,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="testFactoryBean.testFactoryBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="all-demo" />
       <extension name="coverage">
@@ -489,6 +476,7 @@
       <workItem from="1624333300744" duration="6011000" />
       <workItem from="1624716434300" duration="1458000" />
       <workItem from="1624717939768" duration="9000" />
+      <workItem from="1624804592702" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="is my studnet">
       <created>1572500629282</created>
