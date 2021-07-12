@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee0474f-b171-4089-b4db-d8e3c8267fc1" name="Default Changelist" comment="测试" />
+    <list default="true" id="7ee0474f-b171-4089-b4db-d8e3c8267fc1" name="Default Changelist" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/info/log-info-2021-05-29.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/info/log-info-2021-05-31.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/log_info.log" beforeDir="false" afterPath="$PROJECT_DIR$/demo/log_info.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/skin/demo/DesignPatterns/ABSFactory/IFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/skin/demo/Solution/twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/skin/demo/Solution/twoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/skin/demo/initializeClass/initialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/skin/demo/initializeClass/initialize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/skin/demo/FactoryBean/testFactoryBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/skin/demo/FactoryBean/testFactoryBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/skin/demo/Solution/twoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/skin/demo/Solution/twoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/skin/demo/initializeClass/initialize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/skin/demo/initializeClass/initialize.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -253,7 +264,7 @@
       <recent name="com.skin.demo.netty" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testFactoryBean.testFactoryBean">
+  <component name="RunManager" selected="Application.initialize">
     <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.skin.demo.nio.chat.NioClient" />
       <module name="all-demo" />
@@ -306,6 +317,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testFactoryBean.testFactoryBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="all-demo" />
       <extension name="coverage">
@@ -322,7 +344,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="all-demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.skin.demo.DemoApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -341,11 +363,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.initialize" />
         <item itemvalue="JUnit.testFactoryBean.testFactoryBean" />
+        <item itemvalue="Spring Boot.DemoApplication" />
         <item itemvalue="Application.spinlock" />
         <item itemvalue="Application.NioServer" />
-        <item itemvalue="Application.NioClient" />
-        <item itemvalue="Application.initialize" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +498,14 @@
       <workItem from="1624333300744" duration="6011000" />
       <workItem from="1624716434300" duration="1458000" />
       <workItem from="1624717939768" duration="9000" />
-      <workItem from="1624804592702" duration="437000" />
+      <workItem from="1624804592702" duration="12135000" />
+      <workItem from="1625365023471" duration="32000" />
+      <workItem from="1625365072958" duration="628000" />
+      <workItem from="1625365794514" duration="2345000" />
+      <workItem from="1625495607502" duration="613000" />
+      <workItem from="1625625857963" duration="22000" />
+      <workItem from="1625879569219" duration="12000" />
+      <workItem from="1626060320147" duration="727000" />
     </task>
     <task id="LOCAL-00001" summary="is my studnet">
       <created>1572500629282</created>
@@ -562,7 +591,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587439637919</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="测试">
+      <created>1624805053710</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1624805053710</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">

@@ -1,5 +1,7 @@
 package com.skin.demo.Solution;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import java.util.HashMap;
 
 /**
@@ -8,6 +10,7 @@ import java.util.HashMap;
  * @time: 2020/4/16 15:38
  */
 public class twoSum {
+
 
     public static int[] twoSumCount(int[] nums, int target) {
         HashMap<Integer, Integer> objectObjectHashMap = new HashMap<>();
